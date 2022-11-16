@@ -2,20 +2,38 @@
   display: flex;
   flex-direction: column;
   max-width: 500px;
+  width: 100%;
   border-radius: 10px;
   overflow: hidden;
 }
 
 .header {
   width: 100%;
-  height: 50px;
-  background-color: dimgray;
-  border-bottom: 1px solid burlywood;
+  min-height: 50px;
+  background: #323232;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 
 .content {
   width: 100%;
   min-height: 500px;
-  background-color: rgba(0, 0, 0, 0.8);
+  max-height: 500px;
+  background: #6d6d6d;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  font-size: 1.2rem;
+  font-weight: bold;
+  overflow: auto;
+  color: white;
+}
+
+.footer {
+  width: 100%;
+  min-height: 50px;
+  background: #323232;
+}
+
+.footer input {
+  font-size: 1.2rem;
+  background: #323232;
   color: white;
 }

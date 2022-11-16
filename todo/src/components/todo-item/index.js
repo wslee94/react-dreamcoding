@@ -1,4 +1,6 @@
 import style from "./style.module.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { solid } from "@fortawesome/fontawesome-svg-core/import.macro";
 
 const TodoItem = ({ id, text, completed, removeItem, checkItem }) => {
   return (
@@ -11,7 +13,9 @@ const TodoItem = ({ id, text, completed, removeItem, checkItem }) => {
         />
         {text}
       </label>
-      <button onClick={() => removeItem(id)}>삭제</button>
+      <button className={style.input_button} onClick={() => removeItem(id)}>
+        <FontAwesomeIcon className={style.icon} icon={solid("trash")} />
+      </button>
     </div>
   );
 };

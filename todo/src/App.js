@@ -1,11 +1,7 @@
 import ToDo from "./template/todo";
 
 function App() {
-  return (
-    <>
-      <ToDo />
-    </>
-  );
+  return <ToDo />;
 }
 
 export default App;

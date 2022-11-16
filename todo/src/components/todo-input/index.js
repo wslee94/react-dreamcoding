@@ -1,4 +1,6 @@
 import style from "./style.module.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { solid } from "@fortawesome/fontawesome-svg-core/import.macro";
 
 const TodoInput = ({ name, value, onChange }) => {
   return (
@@ -9,7 +11,9 @@ const TodoInput = ({ name, value, onChange }) => {
         value={value}
         onChange={onChange}
       />
-      <button className={style.input_button}>추가</button>
+      <button className={style.input_button}>
+        <FontAwesomeIcon className={style.icon} icon={solid("plus")} />
+      </button>
     </div>
   );
 };

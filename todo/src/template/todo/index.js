@@ -1,17 +1,23 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import style from "./style.module.css";
 import TodoItem from "../../components/todo-item";
 import TodoInput from "../../components/todo-input";
 
+const setLS = (items) => {
+  localStorage.setItem("todos", JSON.stringify(items));
+};
+
+const getLS = () => {
+  return JSON.parse(localStorage.getItem("todos")) || [];
+};
+
 const Todo = () => {
-  const [list, setList] = useState([
-    {
-      id: 1,
-      completed: false,
-      text: "강의 보기",
-    },
-  ]);
+  const [list, setList] = useState(getLS());
   const [form, setForm] = useState({ todo: "" });
+
+  useEffect(() => {
+    setLS(list);
+  }, [list]);
 
   const resetForm = () => {
     setForm({ todo: "" });
@@ -47,27 +53,27 @@ const Todo = () => {
   };
 
   return (
-    <>
-      <div className={style.container}>
-        <div className={style.header}></div>
-        <ul className={style.content}>
-          {list.map((item, index) => (
-            <li key={index}>
-              <TodoItem
-                id={item.id}
-                text={item.text}
-                completed={item.completed}
-                removeItem={removeItem}
-                checkItem={checkItem}
-              />
-            </li>
-          ))}
-        </ul>
+    <div className={style.container}>
+      <div className={style.header}></div>
+      <ul className={style.content}>
+        {list.map((item, index) => (
+          <li key={index}>
+            <TodoItem
+              id={item.id}
+              text={item.text}
+              completed={item.completed}
+              removeItem={removeItem}
+              checkItem={checkItem}
+            />
+          </li>
+        ))}
+      </ul>
+      <div className={style.footer}>
         <form onSubmit={handleSubmit} autoComplete="off">
           <TodoInput name="todo" value={form.todo} onChange={handleChange} />
         </form>
       </div>
-    </>
+    </div>
   );
 };
 

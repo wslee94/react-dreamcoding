@@ -7,6 +7,28 @@
 
 .item {
   display: flex;
+  gap: 10px;
   align-items: center;
   cursor: pointer;
+}
+
+.input_button {
+  width: 30px;
+  height: 30px;
+  background: #ff8a80;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input_button:hover,
+.input_button:active {
+  opacity: 0.7;
+}
+
+.icon {
+  color: white;
+  width: 18px;
+  height: 18px;
 }
