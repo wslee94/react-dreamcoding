@@ -1,6 +1,7 @@
 import { useState, useEffect, useContext } from "react";
 import style from "./style.module.css";
 import ThemeSwitch from "../../components/theme-switch";
+import TodoTab from "../../components/todo-tab";
 import TodoItem from "../../components/todo-item";
 import TodoInput from "../../components/todo-input";
 import { ThemeContext } from "../../context/ThemeContext";
@@ -16,6 +17,7 @@ const getLS = () => {
 const Todo = () => {
   const [list, setList] = useState(getLS());
   const [form, setForm] = useState({ todo: "" });
+  const [tab, setTab] = useState("all");
   const { theme } = useContext(ThemeContext);
 
   useEffect(() => {
@@ -60,13 +62,25 @@ const Todo = () => {
     );
   };
 
+  const filterList = (list) => {
+    switch (tab) {
+      case "active":
+        return list.filter((item) => !item.completed);
+      case "completed":
+        return list.filter((item) => item.completed);
+      default:
+        return list;
+    }
+  };
+
   return (
     <div className={style.container}>
       <div className={style.header}>
         <ThemeSwitch />
+        <TodoTab value={tab} onChange={setTab} />
       </div>
       <ul className={style.content}>
-        {list.map((item, index) => (
+        {filterList(list).map((item, index) => (
           <li key={index}>
             <TodoItem
               id={item.id}

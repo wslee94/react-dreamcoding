@@ -16,7 +16,7 @@
 .input_button {
   width: 40px;
   height: 40px;
-  background: #ff8a80;
+  background: var(--color-primary);
   border-radius: 50%;
   display: flex;
   align-items: center;
