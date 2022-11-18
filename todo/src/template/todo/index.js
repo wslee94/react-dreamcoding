@@ -1,8 +1,9 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
 import style from "./style.module.css";
 import ThemeSwitch from "../../components/theme-switch";
 import TodoItem from "../../components/todo-item";
 import TodoInput from "../../components/todo-input";
+import { ThemeContext } from "../../context/ThemeContext";
 
 const setLS = (items) => {
   localStorage.setItem("todos", JSON.stringify(items));
@@ -15,6 +16,12 @@ const getLS = () => {
 const Todo = () => {
   const [list, setList] = useState(getLS());
   const [form, setForm] = useState({ todo: "" });
+  const { theme } = useContext(ThemeContext);
+
+  useEffect(() => {
+    const body = document.querySelector("body");
+    body.className = theme;
+  }, [theme]);
 
   useEffect(() => {
     setLS(list);

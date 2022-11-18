@@ -5,35 +5,36 @@
   width: 100%;
   border-radius: 10px;
   overflow: hidden;
+  box-shadow: 8px 11px 12px 0px rgba(0, 0, 0, 0.35);
 }
 
 .header {
   width: 100%;
   height: 50px;
-  background: #323232;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  background: var(--bg-header);
+  border-bottom: 1px solid var(--color-line);
 }
 
 .content {
   width: 100%;
   min-height: 500px;
   max-height: 500px;
-  background: #6d6d6d;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  background: var(--bg-content);
+  border-bottom: 1px solid var(--color-line);
   font-size: 1.2rem;
   font-weight: bold;
   overflow: auto;
-  color: white;
+  color: var(--color-font);
 }
 
 .footer {
   width: 100%;
   min-height: 50px;
-  background: #323232;
+  background: var(--bg-footer);
 }
 
 .footer input {
   font-size: 1.2rem;
-  background: #323232;
-  color: white;
+  background: var(--bg-footer);
+  color: var(--color-font);
 }
