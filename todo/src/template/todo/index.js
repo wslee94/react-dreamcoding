@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import style from "./style.module.css";
+import ThemeSwitch from "../../components/theme-switch";
 import TodoItem from "../../components/todo-item";
 import TodoInput from "../../components/todo-input";
 
@@ -54,7 +55,9 @@ const Todo = () => {
 
   return (
     <div className={style.container}>
-      <div className={style.header}></div>
+      <div className={style.header}>
+        <ThemeSwitch />
+      </div>
       <ul className={style.content}>
         {list.map((item, index) => (
           <li key={index}>

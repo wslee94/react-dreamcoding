@@ -1,0 +1,21 @@
+.wrapper_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  padding: 10px;
+}
+
+.button_theme {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  color: rgba(255, 255, 255, 0.8);
+  width: 25px;
+  height: 25px;
+}
