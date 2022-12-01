@@ -1,9 +1,19 @@
 import React, { useEffect } from "react";
-import { getVideosByPopular } from "../../api";
+import {
+  getVideosByPopular,
+  getVideosByKeyword,
+  getVideosByRelated,
+  getVideo,
+  getChannel,
+} from "../../api";
 
 export default function Main() {
   useEffect(() => {
-    getVideosByPopular({}).then((res) => console.log(res));
+    // getVideosByPopular({}).then(console.log);
+    // getVideosByKeyword({ keyword: "울랄라" }).then(console.log);
+    // getVideosByRelated({ id: "1sadasd" }).then(console.log);
+    // getChannel({ id: "1sadasd" }).then(console.log);
+    getVideo({ id: "1sadasd" }).then(console.log);
   }, []);
 
   return <div>main</div>;

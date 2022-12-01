@@ -25,6 +25,10 @@ export const getVideosByRelated = ({ id, maxResults = 25 }) => {
   );
 };
 
+export const getVideo = ({ id }) => {
+  return instance.get(`/videos?part=snippet&id=${id}&key=${API_KEY}`);
+};
+
 export const getChannel = ({ id }) => {
   return instance.get(`/channels?part=snippet&id=${id}&key=${API_KEY}`);
 };
