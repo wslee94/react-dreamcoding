@@ -1,11 +1,13 @@
 import React, { useEffect } from "react";
-import {
-  getVideosByPopular,
-  getVideosByKeyword,
-  getVideosByRelated,
-  getVideo,
-  getChannel,
-} from "../../api";
+import { SearchBar } from "../../components";
+
+// import {
+//   getVideosByPopular,
+//   getVideosByKeyword,
+//   getVideosByRelated,
+//   getVideo,
+//   getChannel,
+// } from "../../api";
 
 export default function Main() {
   useEffect(() => {
@@ -13,8 +15,12 @@ export default function Main() {
     // getVideosByKeyword({ keyword: "울랄라" }).then(console.log);
     // getVideosByRelated({ id: "1sadasd" }).then(console.log);
     // getChannel({ id: "1sadasd" }).then(console.log);
-    getVideo({ id: "1sadasd" }).then(console.log);
+    // getVideo({ id: "1sadasd" }).then(console.log);
   }, []);
 
-  return <div>main</div>;
+  return (
+    <div>
+      <SearchBar />
+    </div>
+  );
 }
