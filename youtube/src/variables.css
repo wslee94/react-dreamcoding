@@ -1,4 +1,7 @@
 :root {
+  --text-primary: #f1f1f1;
+  --text-secondary: #aaa;
+
   --bg-white: #fff;
   --bg-color: #0f0f0f;
   --button-color: hsla(0, 0%, 100%, 0.08);

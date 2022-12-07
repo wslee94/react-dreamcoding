@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { SearchBar } from "../../components";
+import { SearchBar, GridCard } from "../../components";
 
 // import {
 //   getVideosByPopular,
@@ -19,8 +19,13 @@ export default function Main() {
   }, []);
 
   return (
-    <div>
-      <SearchBar />
-    </div>
+    <>
+      <div>
+        <SearchBar />
+      </div>
+      <div>
+        <GridCard />
+      </div>
+    </>
   );
 }
