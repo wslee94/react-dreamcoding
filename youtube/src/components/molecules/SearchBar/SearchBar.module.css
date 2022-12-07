@@ -1,10 +1,35 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .button {
+  height: 40px;
+  padding: 0 10px;
   background-color: var(--button-color);
   border: 1px solid var(--button-border-color);
 }
 
 .icon {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   color: var(--icon-color);
+}
+
+.input {
+  width: 100%;
+  max-width: 400px;
+  height: 40px;
+  padding: 0 15px;
+  color: var(--searchbox-text-color);
+  background-color: var(--searchbox-bg);
+  border: 1px solid var(--searchbox-border-color);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.input::placeholder {
+  opacity: 0.7;
 }

@@ -1,6 +1,11 @@
 :root {
+  --bg-white: #fff;
   --bg-color: #0f0f0f;
   --button-color: hsla(0, 0%, 100%, 0.08);
   --button-border-color: hsl(0, 0%, 18.82%);
-  --icon-color: white;
+  --icon-color: #fff;
+
+  --searchbox-bg: hsl(0, 0%, 7%);
+  --searchbox-text-color: hsla(0, 100%, 100%, 0.88);
+  --searchbox-border-color: hsl(0, 0%, 18.82%);
 }
