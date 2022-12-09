@@ -12,7 +12,11 @@ export default function Card({ thumbnailURL, title, author, date }) {
         <p className={styles.title}>{title}</p>
         <p className={styles.author}>{author}</p>
         <p className={styles.date}>
-          <ReactTimeAgo date={date} locale="ko" timeStyle="round-minute" />
+          <ReactTimeAgo
+            date={new Date(date)}
+            locale="ko"
+            timeStyle="round-minute"
+          />
         </p>
       </div>
     </div>
