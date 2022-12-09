@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { SearchBar, GridCard } from "../../components";
+import { SearchBar, GridCard, GridRelatedCard } from "../../components";
 
 // import {
 //   getVideosByPopular,
@@ -25,6 +25,9 @@ export default function Main() {
       </div>
       <div>
         <GridCard />
+      </div>
+      <div>
+        <GridRelatedCard />
       </div>
     </>
   );
