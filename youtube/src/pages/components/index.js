@@ -1,13 +1,14 @@
 import React, { useEffect } from "react";
 import { SearchBar, GridCard, GridRelatedCard, Video } from "../../components";
+import { useQuery } from "@tanstack/react-query";
 
-// import {
-//   getVideosByPopular,
-//   getVideosByKeyword,
-//   getVideosByRelated,
-//   getVideo,
-//   getChannel,
-// } from "../../api";
+import {
+  getVideosByPopular,
+  getVideosByKeyword,
+  getVideosByRelated,
+  getVideo,
+  getChannel,
+} from "../../api";
 
 export default function Components() {
   useEffect(() => {
@@ -17,6 +18,11 @@ export default function Components() {
     // getChannel({ id: "1sadasd" }).then(console.log);
     // getVideo({ id: "1sadasd" }).then(console.log);
   }, []);
+
+  const { data, isLoading } = useQuery({
+    queryKey: ["FETCH_POPULAR_VIDEO"],
+    queryFn: getVideosByPopular,
+  });
 
   return (
     <>
