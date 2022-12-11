@@ -15,9 +15,7 @@ const queryClient = new QueryClient({
 function App() {
   return (
     <QueryClientProvider client={queryClient}>
-      <Layout>
-        <RouterProvider router={router} />;
-      </Layout>
+      <RouterProvider router={router} />;
       <ReactQueryDevtools />
     </QueryClientProvider>
   );

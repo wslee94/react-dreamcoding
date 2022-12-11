@@ -128,6 +128,12 @@ table {
   border-spacing: 0;
 }
 
+a {
+  text-decoration: none;
+  outline: none;
+  cursor: none;
+}
+
 * {
   box-sizing: border-box;
 }

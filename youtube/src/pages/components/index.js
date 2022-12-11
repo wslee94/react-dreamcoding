@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { SearchBar, GridCard, GridRelatedCard, Video } from "../../components";
+import { SearchBar, GridRelatedCard, Video } from "../../components";
 import { useQuery } from "@tanstack/react-query";
 
 import {
@@ -28,9 +28,6 @@ export default function Components() {
     <>
       <div>
         <SearchBar />
-      </div>
-      <div>
-        <GridCard />
       </div>
       <div>
         <GridRelatedCard />
