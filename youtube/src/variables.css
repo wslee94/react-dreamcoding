@@ -11,4 +11,6 @@
   --searchbox-bg: hsl(0, 0%, 7%);
   --searchbox-text-color: hsla(0, 100%, 100%, 0.88);
   --searchbox-border-color: hsl(0, 0%, 18.82%);
+
+  --header-line-color: rgba(255, 255, 255, 0.1);
 }
