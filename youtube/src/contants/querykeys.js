@@ -1,0 +1,3 @@
+export default {
+  FETCH_POPULAR_VIDEO: "FETCH_POPULAR_VIDEO",
+};
