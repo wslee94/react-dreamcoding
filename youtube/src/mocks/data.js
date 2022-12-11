@@ -1744,7 +1744,7 @@ export const popularVideos = {
 
 export const searchedVideos = {
   kind: "youtube#searchListResponse",
-  etag: "SGvAZTPuiiKJBbkbkjABqSWJJu0",
+  etag: "tp3RMwqGBs7orDBOZXFuP1mwVHw",
   nextPageToken: "CBkQAA",
   regionCode: "KR",
   pageInfo: {
@@ -1752,77 +1752,6 @@ export const searchedVideos = {
     resultsPerPage: 25,
   },
   items: [
-    {
-      kind: "youtube#searchResult",
-      etag: "QarTyUNm-ti0gZ6cnizoW0NUBy0",
-      id: {
-        kind: "youtube#video",
-        videoId: "21kEM3eZB-g",
-      },
-      snippet: {
-        publishedAt: "2022-11-29T00:00:06Z",
-        channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title: "BTS (방탄소년단) LOVE MYSELF Campaign 5th Anniversary Message",
-        description:
-          "BTSLoveMyself #BTS #방탄소년단 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/21kEM3eZB-g/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/21kEM3eZB-g/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/21kEM3eZB-g/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "BANGTANTV",
-        liveBroadcastContent: "none",
-        publishTime: "2022-11-29T00:00:06Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "2ozQro66WO5CVrxeCi4-OWL-c8o",
-      id: {
-        kind: "youtube#video",
-        videoId: "ecsWfDLtoc8",
-      },
-      snippet: {
-        publishedAt: "2022-11-29T14:00:02Z",
-        channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title:
-          "Run BTS! 2022 Special Episode - &#39;RUN BTS TV&#39; On-air Part 2",
-        description:
-          "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/ecsWfDLtoc8/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/ecsWfDLtoc8/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/ecsWfDLtoc8/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "BANGTANTV",
-        liveBroadcastContent: "none",
-        publishTime: "2022-11-29T14:00:02Z",
-      },
-    },
     {
       kind: "youtube#searchResult",
       etag: "CHVY06zoJiMKKgflQF0fZJVJwGw",
@@ -1896,38 +1825,37 @@ export const searchedVideos = {
     },
     {
       kind: "youtube#searchResult",
-      etag: "p1tPJo2YiepAJcUFDpDDikbxKVQ",
+      etag: "z-_ebemjVSLQXODCW-HLn9S-ZgI",
       id: {
         kind: "youtube#video",
-        videoId: "aqW4xXUgmno",
+        videoId: "2xTx04wez0w",
       },
       snippet: {
-        publishedAt: "2022-11-13T10:00:02Z",
+        publishedAt: "2022-12-10T12:00:03Z",
         channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title:
-          "[CHOREOGRAPHY] BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; Dance Practice",
+        title: "RM ‘All Day (with 김남준)’ Part 1",
         description:
-          "BTS #방탄소년단 #달려라방탄 #RunBTS Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
+          "RM #indigo #AllDayWith김남준 #AllDayWithNamJun #BTS #방탄소년단 Connect with BTS: https://ibighit.com/bts ...",
         thumbnails: {
           default: {
-            url: "https://i.ytimg.com/vi/aqW4xXUgmno/default.jpg",
+            url: "https://i.ytimg.com/vi/2xTx04wez0w/default.jpg",
             width: 120,
             height: 90,
           },
           medium: {
-            url: "https://i.ytimg.com/vi/aqW4xXUgmno/mqdefault.jpg",
+            url: "https://i.ytimg.com/vi/2xTx04wez0w/mqdefault.jpg",
             width: 320,
             height: 180,
           },
           high: {
-            url: "https://i.ytimg.com/vi/aqW4xXUgmno/hqdefault.jpg",
+            url: "https://i.ytimg.com/vi/2xTx04wez0w/hqdefault.jpg",
             width: 480,
             height: 360,
           },
         },
         channelTitle: "BANGTANTV",
         liveBroadcastContent: "none",
-        publishTime: "2022-11-13T10:00:02Z",
+        publishTime: "2022-12-10T12:00:03Z",
       },
     },
     {
@@ -1968,6 +1896,77 @@ export const searchedVideos = {
     },
     {
       kind: "youtube#searchResult",
+      etag: "p1tPJo2YiepAJcUFDpDDikbxKVQ",
+      id: {
+        kind: "youtube#video",
+        videoId: "aqW4xXUgmno",
+      },
+      snippet: {
+        publishedAt: "2022-11-13T10:00:02Z",
+        channelId: "UCLkAepWjdylmXSltofFvsYQ",
+        title:
+          "[CHOREOGRAPHY] BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; Dance Practice",
+        description:
+          "BTS #방탄소년단 #달려라방탄 #RunBTS Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/aqW4xXUgmno/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/aqW4xXUgmno/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/aqW4xXUgmno/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BANGTANTV",
+        liveBroadcastContent: "none",
+        publishTime: "2022-11-13T10:00:02Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "kqHQJ-h1gjwVSdai41CPbshiu-w",
+      id: {
+        kind: "youtube#video",
+        videoId: "JqKszei5ktA",
+      },
+      snippet: {
+        publishedAt: "2022-12-10T10:00:06Z",
+        channelId: "UCLkAepWjdylmXSltofFvsYQ",
+        title: "Me, Myself, and V ‘Veautiful Days’ Production Film",
+        description:
+          "Me, Myself, and V 'Veautiful Days' Production Film #Photo_Folio #V #BTS #방탄소년단 Artist & Creator : V Production : Artist ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/JqKszei5ktA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/JqKszei5ktA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/JqKszei5ktA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BANGTANTV",
+        liveBroadcastContent: "none",
+        publishTime: "2022-12-10T10:00:06Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
       etag: "zd4-MvT7OTuaAjQ07_4ZP3niZ2A",
       id: {
         kind: "youtube#video",
@@ -1999,106 +1998,6 @@ export const searchedVideos = {
         channelTitle: "HYBE LABELS",
         liveBroadcastContent: "none",
         publishTime: "2021-07-09T03:59:12Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "qcz7dTErzD-cerjuK-9Ff6Hnpcw",
-      id: {
-        kind: "youtube#video",
-        videoId: "kTlv5_Bs8aw",
-      },
-      snippet: {
-        publishedAt: "2017-11-24T09:00:02Z",
-        channelId: "UC3IZKseVpdzPSBaWxBxundA",
-        title:
-          "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
-        description:
-          "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "HYBE LABELS",
-        liveBroadcastContent: "none",
-        publishTime: "2017-11-24T09:00:02Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "FNrloZ0xL7v_OnaDG9oBkemWW7c",
-      id: {
-        kind: "youtube#video",
-        videoId: "HbkBVxU5K5A",
-      },
-      snippet: {
-        publishedAt: "2022-04-23T01:00:03Z",
-        channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title: "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
-        description:
-          "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "BANGTANTV",
-        liveBroadcastContent: "none",
-        publishTime: "2022-04-23T01:00:03Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "P34rBQOY6mVrWcR51Ej6rPoELYY",
-      id: {
-        kind: "youtube#channel",
-        channelId: "UCLkAepWjdylmXSltofFvsYQ",
-      },
-      snippet: {
-        publishedAt: "2012-12-17T03:20:38Z",
-        channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title: "BANGTANTV",
-        description:
-          "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
-        thumbnails: {
-          default: {
-            url: "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s88-c-k-c0xffffffff-no-rj-mo",
-          },
-          medium: {
-            url: "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s240-c-k-c0xffffffff-no-rj-mo",
-          },
-          high: {
-            url: "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s800-c-k-c0xffffffff-no-rj-mo",
-          },
-        },
-        channelTitle: "BANGTANTV",
-        liveBroadcastContent: "none",
-        publishTime: "2012-12-17T03:20:38Z",
       },
     },
     {
@@ -2138,145 +2037,138 @@ export const searchedVideos = {
     },
     {
       kind: "youtube#searchResult",
-      etag: "vAQTgUS3Sj44AmKj-Wib_leYh4I",
+      etag: "WnPz86zFvjLecyndFu8tOHzmR7Y",
       id: {
         kind: "youtube#video",
-        videoId: "Wmm_UJPf_Zo",
+        videoId: "HbkBVxU5K5A",
       },
       snippet: {
-        publishedAt: "2022-11-26T10:00:04Z",
+        publishedAt: "2022-04-23T01:00:03Z",
         channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title: "[EPISODE] j-hope @ Lollapalooza 2022 - BTS (방탄소년단)",
+        title: "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
         description:
-          "jhopeAtLollapalooza #HOBIPALOOZA #jhope #제이홉 #JackInTheBox Connect with BTS: https://ibighit.com/bts ...",
+          "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
         thumbnails: {
           default: {
-            url: "https://i.ytimg.com/vi/Wmm_UJPf_Zo/default.jpg",
+            url: "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
             width: 120,
             height: 90,
           },
           medium: {
-            url: "https://i.ytimg.com/vi/Wmm_UJPf_Zo/mqdefault.jpg",
+            url: "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
             width: 320,
             height: 180,
           },
           high: {
-            url: "https://i.ytimg.com/vi/Wmm_UJPf_Zo/hqdefault.jpg",
+            url: "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
             width: 480,
             height: 360,
           },
         },
         channelTitle: "BANGTANTV",
         liveBroadcastContent: "none",
-        publishTime: "2022-11-26T10:00:04Z",
+        publishTime: "2022-04-23T01:00:03Z",
       },
     },
     {
       kind: "youtube#searchResult",
-      etag: "eVeF-gBT4xy-r5zkMOIC1_Da7Vg",
+      etag: "vkC8iORbTQEP89BUMcUTDpJjdQY",
       id: {
-        kind: "youtube#video",
-        videoId: "kXpOEzNZ8hQ",
+        kind: "youtube#channel",
+        channelId: "UCLkAepWjdylmXSltofFvsYQ",
       },
       snippet: {
-        publishedAt: "2022-06-10T03:59:38Z",
-        channelId: "UC3IZKseVpdzPSBaWxBxundA",
-        title:
-          "BTS (방탄소년단) &#39;Yet To Come (The Most Beautiful Moment)&#39; Official MV",
+        publishedAt: "2012-12-17T03:20:38Z",
+        channelId: "UCLkAepWjdylmXSltofFvsYQ",
+        title: "BANGTANTV",
         description:
-          "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: ...",
+          "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
         thumbnails: {
           default: {
-            url: "https://i.ytimg.com/vi/kXpOEzNZ8hQ/default.jpg",
+            url: "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s88-c-k-c0xffffffff-no-rj-mo",
+          },
+          medium: {
+            url: "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s240-c-k-c0xffffffff-no-rj-mo",
+          },
+          high: {
+            url: "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s800-c-k-c0xffffffff-no-rj-mo",
+          },
+        },
+        channelTitle: "BANGTANTV",
+        liveBroadcastContent: "none",
+        publishTime: "2012-12-17T03:20:38Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "lx4qQexHj6a9EPxIFPFCIROUC3c",
+      id: {
+        kind: "youtube#video",
+        videoId: "DbXMjAYSa68",
+      },
+      snippet: {
+        publishedAt: "2021-05-30T10:00:01Z",
+        channelId: "UCLkAepWjdylmXSltofFvsYQ",
+        title:
+          "[CHOREOGRAPHY] BTS (방탄소년단) &#39;Butter&#39; Special Performance Video",
+        description:
+          "Artist: RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook Production Artist Contents Studio (HYBE 360) Director: Jang Jeong In Assistant ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/DbXMjAYSa68/default.jpg",
             width: 120,
             height: 90,
           },
           medium: {
-            url: "https://i.ytimg.com/vi/kXpOEzNZ8hQ/mqdefault.jpg",
+            url: "https://i.ytimg.com/vi/DbXMjAYSa68/mqdefault.jpg",
             width: 320,
             height: 180,
           },
           high: {
-            url: "https://i.ytimg.com/vi/kXpOEzNZ8hQ/hqdefault.jpg",
+            url: "https://i.ytimg.com/vi/DbXMjAYSa68/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BANGTANTV",
+        liveBroadcastContent: "none",
+        publishTime: "2021-05-30T10:00:01Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "ZbJTJNg-oXrai80qjwhBVh5mNao",
+      id: {
+        kind: "youtube#video",
+        videoId: "kTlv5_Bs8aw",
+      },
+      snippet: {
+        publishedAt: "2017-11-24T09:00:02Z",
+        channelId: "UC3IZKseVpdzPSBaWxBxundA",
+        title:
+          "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
+        description:
+          "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
             width: 480,
             height: 360,
           },
         },
         channelTitle: "HYBE LABELS",
         liveBroadcastContent: "none",
-        publishTime: "2022-06-10T03:59:38Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "SpEvDOPwG-nVZMBvtQyDpnCvm2g",
-      id: {
-        kind: "youtube#video",
-        videoId: "E-LeSmP9XZs",
-      },
-      snippet: {
-        publishedAt: "2022-11-29T07:23:49Z",
-        channelId: "UCw3-NVYsGjhMy8BZMw-IyBA",
-        title:
-          "Tinytanガーリックチーズせん✨1日遅れでありました✨ランダムのシールがかわいすぎます💜",
-        description:
-          "11月28日(月)発売のTinytanガーリックチーズせんを発売日から１日遅れでイオンで購入することができました✨そのあとBT21 ...",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/E-LeSmP9XZs/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/E-LeSmP9XZs/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/E-LeSmP9XZs/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "アミスタCHANNEL【BTS情報発信中】",
-        liveBroadcastContent: "none",
-        publishTime: "2022-11-29T07:23:49Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "Ea7YiKESQ-ocnvq7cHRrMZSovH8",
-      id: {
-        kind: "youtube#video",
-        videoId: "BAZDAb9-GCY",
-      },
-      snippet: {
-        publishedAt: "2022-11-29T07:58:17Z",
-        channelId: "UC3-DmSrEtPrs2SGw3lJNUIQ",
-        title:
-          "[실제영상포함] 2022 카타르 월드컵 BTS 방탄소년단 빌보드 1위! 당황한 미국 아나운서, 월드컵 손흥민",
-        description:
-          "BTS 신곡 정국 드리머스 Dreamers가 미국 빌보드 1위에 올랐습니다! #BTS #방탄소년단 #해외반응 #DREAMERS.",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/BAZDAb9-GCY/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/BAZDAb9-GCY/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/BAZDAb9-GCY/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "톡!뉴스",
-        liveBroadcastContent: "none",
-        publishTime: "2022-11-29T07:58:17Z",
+        publishTime: "2017-11-24T09:00:02Z",
       },
     },
     {
@@ -2352,6 +2244,41 @@ export const searchedVideos = {
     },
     {
       kind: "youtube#searchResult",
+      etag: "hBBgqy4qqIkqe4h9uQIPCz2K0F4",
+      id: {
+        kind: "youtube#video",
+        videoId: "BVwAVbKYYeM",
+      },
+      snippet: {
+        publishedAt: "2015-06-23T15:00:01Z",
+        channelId: "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        title: "[MV] BTS(방탄소년단) _ DOPE(쩔어)",
+        description:
+          "[MV] BTS(방탄소년단) _ DOPE(쩔어) *English subtitles are now available. :D (Please click on 'CC' button or activate 'Interactive ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/BVwAVbKYYeM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/BVwAVbKYYeM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/BVwAVbKYYeM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "1theK (원더케이)",
+        liveBroadcastContent: "none",
+        publishTime: "2015-06-23T15:00:01Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
       etag: "jkm-9641qWE3R5KzKZOoggZ6_Hg",
       id: {
         kind: "youtube#video",
@@ -2387,114 +2314,7 @@ export const searchedVideos = {
     },
     {
       kind: "youtube#searchResult",
-      etag: "xki-w4HiI0JtxrWf4ArtJZTy4h4",
-      id: {
-        kind: "youtube#video",
-        videoId: "J9faC3UKsDs",
-      },
-      snippet: {
-        publishedAt: "2022-11-28T12:00:00Z",
-        channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title: "[슈취타] 슈가와 취하는 타임 TEASER",
-        description:
-          "슈가와취하는타임 #슈취타 #SUGA #슈가 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/J9faC3UKsDs/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/J9faC3UKsDs/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/J9faC3UKsDs/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "BANGTANTV",
-        liveBroadcastContent: "none",
-        publishTime: "2022-11-28T12:00:00Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "7rOQEsQnU53JqQXR67yF82s2bsk",
-      id: {
-        kind: "youtube#video",
-        videoId: "DbXMjAYSa68",
-      },
-      snippet: {
-        publishedAt: "2021-05-30T10:00:01Z",
-        channelId: "UCLkAepWjdylmXSltofFvsYQ",
-        title:
-          "[CHOREOGRAPHY] BTS (방탄소년단) &#39;Butter&#39; Special Performance Video",
-        description:
-          "Artist: RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook Production Artist Contents Studio (HYBE 360) Director: Jang Jeong In Assistant ...",
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/DbXMjAYSa68/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/DbXMjAYSa68/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/DbXMjAYSa68/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "BANGTANTV",
-        liveBroadcastContent: "none",
-        publishTime: "2021-05-30T10:00:01Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "Qi0UIoe5dnltP8nLn3h93340r3E",
-      id: {
-        kind: "youtube#video",
-        videoId: "Jxp1Hi-7A0A",
-      },
-      snippet: {
-        publishedAt: "2022-11-29T12:15:01Z",
-        channelId: "UCaDacvTqt1kufdRNAaypl7A",
-        title:
-          "BTS &quot;Answer: Love Myself&quot; LIVE PERFORMANCE (THE SONG WE ALL NEEDED😔) - REACTION",
-        description:
-          'bts #loveyourself #btsarmy [ENGSUB] BTS (방탄소년단) - Answer: Love Myself Live BTS "Answer: Love Myself" LIVE ...',
-        thumbnails: {
-          default: {
-            url: "https://i.ytimg.com/vi/Jxp1Hi-7A0A/default.jpg",
-            width: 120,
-            height: 90,
-          },
-          medium: {
-            url: "https://i.ytimg.com/vi/Jxp1Hi-7A0A/mqdefault.jpg",
-            width: 320,
-            height: 180,
-          },
-          high: {
-            url: "https://i.ytimg.com/vi/Jxp1Hi-7A0A/hqdefault.jpg",
-            width: 480,
-            height: 360,
-          },
-        },
-        channelTitle: "dxwxt",
-        liveBroadcastContent: "none",
-        publishTime: "2022-11-29T12:15:01Z",
-      },
-    },
-    {
-      kind: "youtube#searchResult",
-      etag: "Rrxfp4fdKnuCHivfhEBHfKBxpRg",
+      etag: "FFVzshl4TAqQSh_uQcpA3vsAleg",
       id: {
         kind: "youtube#video",
         videoId: "MBdVXkSdhwU",
@@ -2529,108 +2349,286 @@ export const searchedVideos = {
     },
     {
       kind: "youtube#searchResult",
-      etag: "MZqpKunln_-pR28zaX5XYHEGl9w",
+      etag: "GYaDYokQt1qyxXjSqMDzKplzbag",
       id: {
         kind: "youtube#video",
-        videoId: "fkx4Df0OyWU",
+        videoId: "oRxNIWGiPj8",
       },
       snippet: {
-        publishedAt: "2022-11-28T10:09:07Z",
-        channelId: "UCFEH2TZSB-nERSHlU3uF6Kw",
+        publishedAt: "2022-12-11T06:42:20Z",
+        channelId: "UCNiN3Bv6Y3aeY3WhwZDwieA",
         title:
-          "[BTS🐻V🐰JK/JHOPE/ENG]  뷔랑 꾹이가 함께하니 전세계가 들썩들썩!! &quot;극도로 화려한 편집에도 가려지지 않는 미친 춤실력&quot; (일본에 도착한 호비소식!!)",
+          "碩珍&quot;柾國你背信棄義&quot;送J-hope馬桶刷的起因!朋友把碩珍當公主?[BTS][JIN][碩珍直播]",
         description:
-          "일본에 MAMA 출연을 위해 출국한 제이홉 소식과 뷔 연출! 꾹감독 편집한 달방챌린지 소개와 즐거운 팬들반응까지 소개합니다 #방탄 ...",
+          "真心覺得這蛋糕劈的很完美絕對不是我粉絲濾鏡重! -------------------------------- DO NOT REUPLOAD / EDIT MY VIDEO 재업로드는 ...",
         thumbnails: {
           default: {
-            url: "https://i.ytimg.com/vi/fkx4Df0OyWU/default.jpg",
+            url: "https://i.ytimg.com/vi/oRxNIWGiPj8/default.jpg",
             width: 120,
             height: 90,
           },
           medium: {
-            url: "https://i.ytimg.com/vi/fkx4Df0OyWU/mqdefault.jpg",
+            url: "https://i.ytimg.com/vi/oRxNIWGiPj8/mqdefault.jpg",
             width: 320,
             height: 180,
           },
           high: {
-            url: "https://i.ytimg.com/vi/fkx4Df0OyWU/hqdefault.jpg",
+            url: "https://i.ytimg.com/vi/oRxNIWGiPj8/hqdefault.jpg",
             width: 480,
             height: 360,
           },
         },
-        channelTitle: "맛파라치 taste parazzi",
+        channelTitle: "Bunnytoshow613",
         liveBroadcastContent: "none",
-        publishTime: "2022-11-28T10:09:07Z",
+        publishTime: "2022-12-11T06:42:20Z",
       },
     },
     {
       kind: "youtube#searchResult",
-      etag: "vGA_TI7uH6xUWohHtR9tN0QVOKY",
+      etag: "9Ns_4x1kXJcVCUv3vPPKxPbkrss",
       id: {
         kind: "youtube#video",
-        videoId: "d9R5no1PgvY",
+        videoId: "XigGbzte8Wg",
       },
       snippet: {
-        publishedAt: "2022-11-29T12:09:06Z",
-        channelId: "UCZh9-xBQcRQH1zpGAzGzatQ",
-        title: "BTS TIKTOKS FOR LENNY AND THE NEW GANG😌🥴 (ALSO THE OLD GANG)",
+        publishedAt: "2022-10-16T12:00:02Z",
+        channelId: "UCLkAepWjdylmXSltofFvsYQ",
+        title:
+          "[BANGTAN BOMB] ‘MIC Drop’ &amp; ‘달려라 방탄 (Run BTS)’ Stage CAM (BTS focus) @ BTS “Yet To Come” in BUSAN",
         description:
-          "Get all exclusive reactions in our patreon , check out the tiers and get to requests exclusive reactions by supporting our patreon ...",
+          "BANGTANBOMB #방탄밤 #BTS #방탄소년단 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
         thumbnails: {
           default: {
-            url: "https://i.ytimg.com/vi/d9R5no1PgvY/default.jpg",
+            url: "https://i.ytimg.com/vi/XigGbzte8Wg/default.jpg",
             width: 120,
             height: 90,
           },
           medium: {
-            url: "https://i.ytimg.com/vi/d9R5no1PgvY/mqdefault.jpg",
+            url: "https://i.ytimg.com/vi/XigGbzte8Wg/mqdefault.jpg",
             width: 320,
             height: 180,
           },
           high: {
-            url: "https://i.ytimg.com/vi/d9R5no1PgvY/hqdefault.jpg",
+            url: "https://i.ytimg.com/vi/XigGbzte8Wg/hqdefault.jpg",
             width: 480,
             height: 360,
           },
         },
-        channelTitle: "Lenny Len",
+        channelTitle: "BANGTANTV",
         liveBroadcastContent: "none",
-        publishTime: "2022-11-29T12:09:06Z",
+        publishTime: "2022-10-16T12:00:02Z",
       },
     },
     {
       kind: "youtube#searchResult",
-      etag: "hBBgqy4qqIkqe4h9uQIPCz2K0F4",
+      etag: "sxpAp5awD_vsGi_UaOAZAaehUeY",
       id: {
         kind: "youtube#video",
-        videoId: "BVwAVbKYYeM",
+        videoId: "lotQ7YuaOUI",
       },
       snippet: {
-        publishedAt: "2015-06-23T15:00:01Z",
-        channelId: "UCweOkPb1wVVH0Q0Tlj4a5Pw",
-        title: "[MV] BTS(방탄소년단) _ DOPE(쩔어)",
+        publishedAt: "2022-12-10T21:55:00Z",
+        channelId: "UC24_Z2L-8Ki183AI9zJJzNQ",
+        title:
+          "Gubrak! Dokter Yang Memeriksa Wendi Jatuh Dari Tempat Tidur | BTS (10/12/22) Part 6",
         description:
-          "[MV] BTS(방탄소년단) _ DOPE(쩔어) *English subtitles are now available. :D (Please click on 'CC' button or activate 'Interactive ...",
+          "Live Streaming : https://v7.video/livestreaming/TRANS7-Live-Streaming ##### BTS (BERCANDA TAPI SANTAI) Sabtu, ...",
         thumbnails: {
           default: {
-            url: "https://i.ytimg.com/vi/BVwAVbKYYeM/default.jpg",
+            url: "https://i.ytimg.com/vi/lotQ7YuaOUI/default.jpg",
             width: 120,
             height: 90,
           },
           medium: {
-            url: "https://i.ytimg.com/vi/BVwAVbKYYeM/mqdefault.jpg",
+            url: "https://i.ytimg.com/vi/lotQ7YuaOUI/mqdefault.jpg",
             width: 320,
             height: 180,
           },
           high: {
-            url: "https://i.ytimg.com/vi/BVwAVbKYYeM/hqdefault.jpg",
+            url: "https://i.ytimg.com/vi/lotQ7YuaOUI/hqdefault.jpg",
             width: 480,
             height: 360,
           },
         },
-        channelTitle: "1theK (원더케이)",
+        channelTitle: "TRANS7 OFFICIAL",
         liveBroadcastContent: "none",
-        publishTime: "2015-06-23T15:00:01Z",
+        publishTime: "2022-12-10T21:55:00Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "7jn7pk40oX4FpFnJru9niTrmznk",
+      id: {
+        kind: "youtube#video",
+        videoId: "pBuZEGYXA6E",
+      },
+      snippet: {
+        publishedAt: "2018-08-24T09:00:03Z",
+        channelId: "UC3IZKseVpdzPSBaWxBxundA",
+        title: "BTS (방탄소년단) &#39;IDOL&#39; Official MV",
+        description:
+          "BTS (방탄소년단) 'IDOL' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, MinJe Jeong, HyeJeong Park ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "HYBE LABELS",
+        liveBroadcastContent: "none",
+        publishTime: "2018-08-24T09:00:03Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "Ka-JcrAG_LAjX7J8dWqoVOXeZlw",
+      id: {
+        kind: "youtube#video",
+        videoId: "xEeFrLSkMm8",
+      },
+      snippet: {
+        publishedAt: "2017-02-12T15:00:03Z",
+        channelId: "UC3IZKseVpdzPSBaWxBxundA",
+        title: "BTS (방탄소년단) &#39;봄날 (Spring Day)&#39; Official MV",
+        description:
+          "BTS (방탄소년단) '봄날 (Spring Day)' Official MV Music video credits: Director : YongSeok Choi (Lumpens) Assistant Directors ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/xEeFrLSkMm8/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/xEeFrLSkMm8/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/xEeFrLSkMm8/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "HYBE LABELS",
+        liveBroadcastContent: "none",
+        publishTime: "2017-02-12T15:00:03Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "yixBHOBrff2EEcA8gxmd0fvk7LQ",
+      id: {
+        kind: "youtube#video",
+        videoId: "RvcP6V4h_q4",
+      },
+      snippet: {
+        publishedAt: "2020-11-25T15:00:03Z",
+        channelId: "UC3IZKseVpdzPSBaWxBxundA",
+        title:
+          "BTS (방탄소년단) &#39;Life Goes On&#39; Official MV : in the forest",
+        description:
+          "BTS (방탄소년단) 'Life Goes On' Official MV : in the forest Credits: Director: Jeon Jung Kook Assistant Director: Yong Seok Choi, ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/RvcP6V4h_q4/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/RvcP6V4h_q4/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/RvcP6V4h_q4/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "HYBE LABELS",
+        liveBroadcastContent: "none",
+        publishTime: "2020-11-25T15:00:03Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "y6ckZTOPSCOR0q0wZYKmfsbHt58",
+      id: {
+        kind: "youtube#video",
+        videoId: "gwMa6gpoE9I",
+      },
+      snippet: {
+        publishedAt: "2020-02-21T08:59:13Z",
+        channelId: "UC3IZKseVpdzPSBaWxBxundA",
+        title:
+          "BTS (방탄소년단) &#39;ON&#39; Kinetic Manifesto Film : Come Prima",
+        description:
+          "BTS (방탄소년단) 'ON' Kinetic Manifesto Film : Come Prima Credits: Director : YongSeok Choi (Lumpens) Executive Producer ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/gwMa6gpoE9I/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/gwMa6gpoE9I/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/gwMa6gpoE9I/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "HYBE LABELS",
+        liveBroadcastContent: "none",
+        publishTime: "2020-02-21T08:59:13Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      etag: "21JZLBy0ct9kr4dkHmhYJ6pTSy4",
+      id: {
+        kind: "youtube#video",
+        videoId: "fnYSoHXxlgo",
+      },
+      snippet: {
+        publishedAt: "2021-05-31T03:09:54Z",
+        channelId: "UCsHuEASDsHwx2BDpX1CGH3g",
+        title: "『광고없음』 B T S PLAYLIST 2021 UPDATED | 방탄소년단 노래모음",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/fnYSoHXxlgo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/fnYSoHXxlgo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/fnYSoHXxlgo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "KOREAN LEGEND SONGS",
+        liveBroadcastContent: "none",
+        publishTime: "2021-05-31T03:09:54Z",
       },
     },
   ],

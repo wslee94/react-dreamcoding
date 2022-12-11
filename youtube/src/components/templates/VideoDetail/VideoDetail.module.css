@@ -1,0 +1,64 @@
+.container {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.playerWrapper {
+  flex-grow: 1;
+}
+
+.relatedVideosWrapper {
+  flex-shrink: 0;
+  width: 400px;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px 10px;
+}
+
+.title {
+  font-size: 1.3rem;
+  line-height: 1.6rem;
+  color: var(--text-primary);
+  font-weight: bold;
+}
+
+.chennelWrapper {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.channelLogo {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.channelTitle {
+  font-size: 1.15rem;
+  line-height: 1.5rem;
+  color: var(--text-primary);
+}
+
+.description {
+  font-size: 1rem;
+  line-height: 1.35rem;
+  color: var(--text-primary);
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .relatedVideosWrapper {
+    width: 100%;
+  }
+}

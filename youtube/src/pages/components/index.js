@@ -1,29 +1,7 @@
 import React, { useEffect } from "react";
 import { SearchBar, GridRelatedCard, Video } from "../../components";
-import { useQuery } from "@tanstack/react-query";
-
-import {
-  getVideosByPopular,
-  getVideosByKeyword,
-  getVideosByRelated,
-  getVideo,
-  getChannel,
-} from "../../api";
 
 export default function Components() {
-  useEffect(() => {
-    // getVideosByPopular({}).then(console.log);
-    // getVideosByKeyword({ keyword: "울랄라" }).then(console.log);
-    // getVideosByRelated({ id: "1sadasd" }).then(console.log);
-    // getChannel({ id: "1sadasd" }).then(console.log);
-    // getVideo({ id: "1sadasd" }).then(console.log);
-  }, []);
-
-  const { data, isLoading } = useQuery({
-    queryKey: ["FETCH_POPULAR_VIDEO"],
-    queryFn: getVideosByPopular,
-  });
-
   return (
     <>
       <div>

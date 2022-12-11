@@ -19,7 +19,6 @@ export const handlers = [
     }
 
     if (hasId) {
-      console.log("call");
       return res(ctx.status(200), ctx.json(video));
     }
 
