@@ -3,11 +3,12 @@ import styles from "./SearchBar.module.css";
 import { Button, InputText } from "../../../components";
 import { AiOutlineSearch } from "react-icons/ai";
 
-export default function SearchBar({ ...otherProps }) {
+export default function SearchBar({ onSubmit, ...otherProps }) {
   const [keyword, setKeyword] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    onSubmit(keyword);
   };
 
   const className = otherProps.className

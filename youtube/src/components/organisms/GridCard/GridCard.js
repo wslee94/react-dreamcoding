@@ -5,8 +5,8 @@ import { Card } from "../../molecules";
 export default function GridCard({ items }) {
   return (
     <ul className={styles.container}>
-      {items.map((item) => (
-        <li key={item.id}>
+      {items.map((item, index) => (
+        <li key={index}>
           <Card
             thumbnailURL={item.snippet.thumbnails.high.url}
             title={item.snippet.title}

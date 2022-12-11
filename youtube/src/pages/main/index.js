@@ -11,7 +11,7 @@ export default function Main() {
   });
 
   return (
-    <div style={{ color: "white" }}>
+    <div>
       <GridCard items={data?.data?.items || []} />
     </div>
   );

@@ -1,9 +1,15 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import styles from "./Header.module.css";
 import { SearchBar } from "../../components";
 
 export default function Header() {
+  const navigate = useNavigate();
+
+  const handleSearch = (keyword) => {
+    navigate(`/videos/${keyword}`);
+  };
+
   return (
     <>
       <div className={styles.header}>
@@ -17,7 +23,7 @@ export default function Header() {
             <span className={styles.logoText}>Youtube</span>
           </div>
         </Link>
-        <SearchBar className={styles.searchBar} />
+        <SearchBar onSubmit={handleSearch} className={styles.searchBar} />
       </div>
 
       <div className={styles.line} />
