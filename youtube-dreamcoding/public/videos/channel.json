@@ -1,0 +1,44 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "w7gQSdzs0a0nF1SAZwY0Fq20zsc",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "KMcKEphuzumnxkQyTnSGzCCgvpg",
+      "id": "UCMEbRpvuwTbXxGiyDb1mT8w",
+      "snippet": {
+        "title": "비디오머그 - VIDEOMUG",
+        "description": "비디오머그는 국내외 다양한 스토리와 뉴스를 감각적인 영상과 흥미로운 스토리텔링으로 전달하는 No.1 소셜 동영상 미디어입니다.\n\n✔보는 것이 믿는 것, 비디오머그 VIDEOMUG\n\n▶비디오머그 VIDEOMUG 홈페이지 : http://www.videomug.co.kr\n▶비디오머그 VIDEOMUG  페이스북 : https://www.facebook.com/videomug/ \n▶비디오머그 VIDEOMUG 트위터 : https://twitter.com/VIDEOMUG_SBS",
+        "customUrl": "@videomug0",
+        "publishedAt": "2016-03-29T08:20:20Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu8HpTlBmVJPd2ujb4XJCg15evuBKjwq3dNWgdxTCA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu8HpTlBmVJPd2ujb4XJCg15evuBKjwq3dNWgdxTCA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu8HpTlBmVJPd2ujb4XJCg15evuBKjwq3dNWgdxTCA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "비디오머그 - VIDEOMUG",
+          "description": "비디오머그는 국내외 다양한 스토리와 뉴스를 감각적인 영상과 흥미로운 스토리텔링으로 전달하는 No.1 소셜 동영상 미디어입니다.\n\n✔보는 것이 믿는 것, 비디오머그 VIDEOMUG\n\n▶비디오머그 VIDEOMUG 홈페이지 : http://www.videomug.co.kr\n▶비디오머그 VIDEOMUG  페이스북 : https://www.facebook.com/videomug/ \n▶비디오머그 VIDEOMUG 트위터 : https://twitter.com/VIDEOMUG_SBS"
+        },
+        "country": "KR"
+      }
+    }
+  ]
+}

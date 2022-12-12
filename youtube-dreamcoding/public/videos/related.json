@@ -1,0 +1,1107 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "UxlGCMmMpbubHJRcmyZQZ5P2XB8",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 128,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a3O1kqd1fZCC5OU02XRri0b4tbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rE8COCbqT6E"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-06T06:47:15Z",
+        "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
+        "title": "그 어떤 아시아팀도 해내지 못한 일 / 2018 FIFA 러시아월드컵 F조 3차전 대한민국 vs 독일 [습츠_월드컵 클래식]",
+        "description": "2018 FIFA 러시아월드컵 F조 3차전 대한민국 vs 독일 [습츠_월드컵 클래식]\n\n⚽ 스브스스포츠 x 월드컵 클래식 ⚽\n\n✔ 2018년 6월 27일\n✔ 카잔, 카잔 아레나\n\n✔ 대한민국 감독: 신태용\n✔ 대한민국: 조현우(GK), 홍철, 김영권, 윤영선, 이용,\n                 장현수, 정우영, 문선민, 이재성, 손흥민, 구자철 (교체: 황희찬, 주세종, 고요한)\n\n✔ 독일 감독: 요하임 뢰브\n✔ 독일: 노이어(GK), 헥토어, 쥘레, 후멜스, 키미히,\n            크로스, 케디라, 로이스, 외질, 고레츠카, 베르너 (교체: 고메스, T. 뮐러, 브란트)\n\n\n✔ 대한민국 2 : 0 독일\n\n\n17:01 후반 47분 김영권 선제골 (1:0)\n\n18:45 후반 51분 손흥민 쐐기골 (2:0)\n\n\n#대한민국 #독일 #러시아월드컵\n#김영권 #손흥민 #조현우 #윤영선 #이재성\n#노이어 #크로스 #로이스 #외질 #베르너 #고레츠카\n#SBS #스브스 #축구 #월드컵",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rE8COCbqT6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rE8COCbqT6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rE8COCbqT6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rE8COCbqT6E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rE8COCbqT6E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스스포츠 SUBUSU SPORTS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-06T06:47:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xHCoeFqbtrez0gQ_ykS9O5BfS28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Jo2tyod7fM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-06T10:44:28Z",
+        "channelId": "UCMEbRpvuwTbXxGiyDb1mT8w",
+        "title": "선수들 가족끼리 모여서 라면 먹은 썰 풉니다. 우리의 마지막 경기, 브라질전에서 만난 모든 순간 모음 /비머in카타르 ep.10 / 비디오머그",
+        "description": "올 겨울의 시작을 뜨겁게 데운 카타르 월드컵, 우리나라의 경기는 브라질전을 끝으로 마무리되었습니다.\n졌지만 너무나 자랑스러웠던 경기. 아쉽지만 뿌듯함이 더 컸던 오늘(6일) 새벽의 그 순간을 카타르 현지에서 전해드립니다.\n\n취재 : 김혜민 / 영상취재 : 홍종수 / 편집 : 김인선 / 구성 : 이세미 / CG : 서현중·안지현·권혜민\n\n✔신뢰할 수 있는 재미, 비디오머그 VIDEOMUG\n\n#비디오머그 #카타르월드컵 #브라질응원 #VMG\n\n▶비디오머그 채널 구독하기 : https://n.sbs.co.kr/mugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Jo2tyod7fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Jo2tyod7fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Jo2tyod7fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Jo2tyod7fM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Jo2tyod7fM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비디오머그 - VIDEOMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-06T10:44:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZKSv2-EJf2jPXPLo51VtTxx9Nf8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dM0PPtVcQ_E"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T15:31:42Z",
+        "channelId": "UCMEbRpvuwTbXxGiyDb1mT8w",
+        "title": "붉은악마 붉은악마 하는 이유가 있었습니다…노동하며 즐기는 축구팬 클라스 / 비머 in 카타르 ep.8 / 비디오머그",
+        "description": "12년 만의 16강 진출. 그 역사적인 순간을 직관한 사람들이 있습니다.\n그날, 포르투갈전이 열렸던 에듀케이션 시티 스타디움에 모인 우리 응원단은 항상 그랬던 대로 큰 소리로 열정을 다해 자리를 지켰는데요. 여기에 앞장 선 사람들이 바로 '붉은악마' 응원단입니다. 매 경기에서 응원을 기획하고 주도하는 붉은악마 카타르 원정대와 이번 경기에 동행했습니다. 철옹성같아 보였던 16강 티켓을 따내던 그 순간 카타르 경기장을 그대로 담아왔습니다\n\n취재 : 김혜민 / 영상취재 : 홍종수 / 편집 : 이홍명 / 구성 : 이세미 / CG : 서현중·안지현·권혜민\n\n✔신뢰할 수 있는 재미, 비디오머그 VIDEOMUG\n\n#비디오머그 #포르투갈 #카타르월드컵 #VMG\n\n▶비디오머그 채널 구독하기 : https://n.sbs.co.kr/mugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dM0PPtVcQ_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dM0PPtVcQ_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dM0PPtVcQ_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dM0PPtVcQ_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dM0PPtVcQ_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비디오머그 - VIDEOMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T15:31:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jlXdW47Q_QWKuw9TLsxzlnbv1iU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Z50zuiJYWk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T10:09:17Z",
+        "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+        "title": "[골라봐야지] 꼰大는 아니지만 꼰中?! 디스와 칭찬이 휘몰아치는 안정환 SSUL｜뭉쳐야찬다2｜JTBC 220918 방송 외",
+        "description": "유난히 다가가기 어려웠던 잘생긴 선배 썰푼다..\n본격 축구선수들의 안정환 몰이 ㅋㅋㅋㅋ\n\n#뭉쳐야찬다2 #골라봐야지 #안정환 \n\n[JTBC봐야지] 구독하기☞ http://asq.kr/VgFZ3\n\n------------------------------------------------------\n* 영상 속 프로그램은?\n\n【뭉쳐야 찬다2】\nhttp://tv.jtbc.joins.com/soccer2\n------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Z50zuiJYWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Z50zuiJYWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Z50zuiJYWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Z50zuiJYWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Z50zuiJYWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Voyage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T10:09:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FpXavD2hyaKj2qHQIBiB7RdvRYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zl4ByZETwac"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T05:46:42Z",
+        "channelId": "UCaKod3X1Tn4c7Ci0iUKcvzQ",
+        "title": "대한민국vs가나",
+        "description": "대한민국vs가나.zip 《런닝맨 / 예능맛ZIP / RunningMan 》\n\nE. 631\n\n#예능맛ZIP​ #런닝맨​ #Runningman",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zl4ByZETwac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zl4ByZETwac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zl4ByZETwac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zl4ByZETwac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zl4ByZETwac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "런닝맨 - 스브스 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T05:46:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bgfdkd5T3I4TRaZ6hY08XZCKR9Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5vdFmbWL0XA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T07:00:35Z",
+        "channelId": "UCgp0KTkZeA9LGE7ooDzA5bA",
+        "title": "제대로 불붙었다💥! 몰아치기 시작한 킹국진😮_한지민 프로와 라운드 3화",
+        "description": "#김국진#골프#국진TV\n\n\n본 영상에는 피토틱스의 유료광고 내용이 포함되어 있습니다\n\n\n[피토틱스X김국진tv) 관절연골엔 콤프케어 구매시 아르기닌 + 쏘팔메토 무료증정이벤트(마지막찬스 12일~15일까지!)\nhttps://brand.naver.com/phytotics/products/7695868888\n엘보 때문에 고민이신 분들 주목!\n파워UP! 활력UP! 거침없는 비거리를 만들어 줄 증정 이벤트\n\n김국진의 친근한 골프채널!\n국진TV 거침없는 골프의 매력에 빠져보세요~\n*매주 월요일 오후 8시 업로드*\n\n광고 및 비즈니스 문의: gookjintv@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5vdFmbWL0XA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5vdFmbWL0XA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5vdFmbWL0XA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5vdFmbWL0XA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5vdFmbWL0XA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김국진TV_거침없는 골프",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T07:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CICGEiiNVC_hLvze7-kJs9TZ73I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F7cmi81t07A"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-27T14:08:45Z",
+        "channelId": "UCMEbRpvuwTbXxGiyDb1mT8w",
+        "title": "걸으면 흔들리고, 바닥에서 밥 먹는 시스템, 참을 수는 있는데 묘하게 킹 받는 모먼트를 모았습니다 / 비머 in 카타르 ep.3 / 비디오머그",
+        "description": "월드컵이 열리는 카타르는 세계에서 찾아 올 응원단 인원에 비해 턱없이 부족한 숙소 문제를 해결하기 위해 다양한 간이 숙소를 마련했습니다.\n이미 알려진 '컨테이너 숙소'도 그 가운데 하나이고, 그 외에도 다양한 형태의 숙소들이 이 시기에 맞춰 만들어졌습니다.\n카타르에서 취재 중인 제작진에게 이 숙소에 대한 제보가 빗발쳤는데요. 도대체 어떤 것들이 문제인 지, 직접 가봤습니다. \n\n✔신뢰할 수 있는 재미, 비디오머그 VIDEOMUG\n#비디오머그 #카타르월드컵 #팬빌리지 #VMG\n\n▶비디오머그 채널 구독하기 : https://n.sbs.co.kr/mugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F7cmi81t07A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F7cmi81t07A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F7cmi81t07A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F7cmi81t07A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F7cmi81t07A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비디오머그 - VIDEOMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-27T14:08:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WWI93CL_pP48cMCb4vzbJhvIxB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n4ukOnmMTvU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T07:13:00Z",
+        "channelId": "UCUyfkq9e9ZfPzxOW5WQ9rzQ",
+        "title": "(SUB) 1️⃣카라 15주년인데 강지영 29살이라는 소식 들었어요? 그럼 명곡은 얼마나 많겠어요? 150살까지 다양한 활동 부탁드립니다 / [문명특급 EP.267]",
+        "description": "불교신자면서 부처가 못 된다는 규리여신ㄷㄷ\n숙녀가 못 돼를 그래서 불러준단 거야\n안 불러준단 거야 으유 열불나(그만큼 노래가 너무 좋다는 뜻)\n\n#카라 #WHEN_I_MOVE #KARA\n\n총괄 기획/하현종  진행/이은재  기획/이규희  구성/이은재 이규희  촬영/다올미디어  라이브 중계/김원용  브랜드디자인/김하경  CG/김한솔  인턴/김유진 이지흔 정영서   행정/박미림  자막/정서영  외부 편집/임한빛 최현진 정서영 홍은설  조연출 · 편집/권나영  연출/홍민지  제작/SBS디지털뉴스랩 크리에이티브 사업부문",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n4ukOnmMTvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n4ukOnmMTvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4ukOnmMTvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n4ukOnmMTvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n4ukOnmMTvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "문명특급 - MMTG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T07:13:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sLF7dE9bu8AsUgJh3BSysVW9DTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NWoQ2XFP2nk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T23:59:30Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "[뉴스라이더] 대한민국 월드컵 일정 마무리...\"졌지만 잘 싸웠다!\" / YTN",
+        "description": "■ 진행 : 안보라 앵커, 김대근 앵커 \n■ 출연 : 장원구 축구 전문 칼럼니스트\n\n* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용시 [YTN 뉴스라이더] 명시해주시기 바랍니다. \n\n\n[앵커]\n지난 며칠 동안 참 행복했습니다. 정말 행복했습니다. 꿈을 꿨습니다. 우리나라와 브라질과의 16강전. 그런데 브라질은 브라질이었어요. 왜 세계 랭킹 1위인지 증명하는 경기였던 거 같다는 생각도 들었습니다. 그래도 우리 선수들 정말 끝까지 최선을 다하는 모습이었습니다. 우리 선수들의 월드컵 여정은 끝났지만여운은 오래 이어질 것 같습니다.\n\n이렇게 보내기에는 너무 아쉬우니까 저희가 이번 월드컵 총정리하는 시간 마련했습니다. 장원구 스포츠춘추 축구 전문 칼럼니스트 스튜디오에 모셨습니다. 어서 오십시오. 오시면서 생각하셨을 것 같아요. 어제 경기를 한마디로 표현한다면 어떻게 할 수 있겠습니까?\n\n[장원구] \n최선을 다했다. 아쉽다. 그리고 세계 최강의 벽은 너무나 높았다. 이렇게. 정리하겠습니다.\n\n[앵커] \n김대근 앵커도 오늘 출근하자마자 계속 봤잖아요. 저희도 오늘 출근해서 축구 경기를 보고 준비를 했는데 저는 그 생각이 났습니다. 기적의 드라마. 시즌2를 기다린다. 여기서 끝내기는 너무 아쉽다. 이런 생각이 들었어요.\n\n[장원구] \n월드컵은 끝났지만 축구는 계속되고 또 사실은 내년 연말에 AFC 아시안컵, 이 대회가 또 굉장히 주목을 받을 것 같아요. 이번에 한국, 일본, 호주가 다 16강에 들었기 때문에 말이죠.\n \n[앵커] \n전반전을 분석해 보면 전반에만 4:0으로 끌려갔잖아요. 그런데 저는 전반전 보고 휴식 타임에 들어갔을 때 정말 큰일 났다, 이대로 무너지면 어떡하지라는 걱정을 정말 많이 했어요. 그런데 무너지지는 않았어요.\n\n[장원구] \n정말 다행으로 생각하는 게 보통 축구에서 전반에 3:0 이상 스코어가 나면 무너져요. 아시아 국가뿐만 아니라 빠르질도 그렇게 무너진 적 있죠, 독일도 그렇게 무너진 적 있고 스페인, 아르헨티나 다 그런 식으로 무너진 적이 한두 번씩 있었어요.\n\n왜 그러냐 하면 전반에 3:0, 4:0이 나면 선수들의 멘탈이 무너지고 패스미스 나오고 안 하던 에러까지 속출하기 때문에. 그래서 저는 하프타임 때 매우 걱정을 많이 했어요. 이러다가 진짜 6:0, 7:0 나는 거 아니냐. 그랬는데 저는 우리 선수들의 정신력이 정말 엄청 대단한 게 4:0에서 멘털 부여잡고 사실은 후반 10분, 15분까지도 아슬아슬한 장면이 나왔어요.\n\n그런데 어쨌든 잘 넘겼잖아요. 이게 매우 중요합니다. 이게 버티는 힘이라는 게 대단해요. 그래서 그거 위기 넘기고 그다음 후반 15분, 20분부터 우리가 주도권을 잡고 반격을 하면서 사실은 우리 한국의 진면목이 보인 것은 후반 한 20분 정도. 그리고 결국 백승호 선수 만회골도 나왔잖아요.\n\n그래서 저는 우리 선수들 대단하다고 생각합니다. 물론 전반에 아쉬운 장면이 있었고 또 너무 쉽게 골을 허용하면서 우리가 가지고 있는 실력을 발휘 못 한 그런 아쉬움은 있지만 그러나 후반에 우리 선수들 버티는 힘을 보여줌으로써 저력을 발휘했다, 이렇게 생각합니다.\n\n[앵커] \n이럴 때 하는 말이 있잖아요. 중꺾맘. 중요한 건 꺾이지 않는 마음 이런 거잖아요.\n\n[장원구] \n우리 선수들은 끝까지 하면 단 한 번도 포기한 적이 없어요. 가장 대표적으로 포르투갈전 보시면 알죠. 그리고 가나전도 두 골 먼저 먹고 무너질 뻔했는데 결국은 2:2까지 만들었잖아요.\n\n그래서 저는 우리 선수들이 개인 기량 많이 향상돼 있고 팀워크도 ... (중략)\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0107_202212060753177842\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\nⓒ YTN 무단 전재 및 재배포금지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NWoQ2XFP2nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NWoQ2XFP2nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NWoQ2XFP2nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NWoQ2XFP2nk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NWoQ2XFP2nk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T23:59:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MHjkSiiPsd3--0JqrGK-rkV6hGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P9nM9VKGxAg"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T21:59:33Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "브라질에 아쉬운 '완패'...16강 성과로 월드컵 마무리 / YTN",
+        "description": "■ 진행 : 정지웅 앵커, 유다원 앵커 \n■ 출연 : 김대길 축구 평론가\n\n* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용시 [YTN 굿모닝와이티엔] 명시해주시기 바랍니다. \n\n[앵커] \n우리 대표팀, 12년 만에 치른 월드컵 16강전에서 세계 1위 브라질과의 분전 끝에 아쉽게 패배했습니다. 하지만 기적적인 16강 진출을 일궈내며 우리 국민에 큰 행복과 감동을 줬는데요. 김대길 축구 평론가와 함께 오늘 경기 그리고 이번 카타르 월드컵을 총정리해보는 시간을 갖겠습니다. 어서 오십시오. 먼저 조금 전에 끝난 브라질과의 16강 경기부터 얘기를 나눠보겠습니다. 오늘 경기 초반부터 연속 골을 많이 허용했는데요. 이 부분이 좀 아쉬웠죠? \n\n[김대길] \n그렇습니다. 거기서부터 경기 흐름이 조금 우리가 생각한 대로 흘러가지 않았고요. 전반 7분 비니시우스 선수에게 먼저 실점했던 것이 전술적 흐름을 우리가 안정적으로 가져갈 수 없게끔 만들었거든요. 그런데 전반전에만 무려 4골을 내주고 말았어요. 그러니까 우리가 할 수 있었던 것은 애초에 예상했던 것은 전반전을 잘 견디고 후반전쯤에 승부를 걸어야 된다는 그런 수순이었는데 그런데 아마도 벤투 감독이 조금 욕심이었던 것 같아요. 전술적 선택 자체가 미드필드 쪽에 밀집도를 높였어야 되는데 그러지 못하고 결과적으로는 빠른 실점이 우리의 전술적 제약을 받게 됐다. 그리고 결국은 많은 실점을 하게 됐다, 이렇게 봐야 될 것 같습니다. \n\n[앵커] \n전반전에 골을 넣은 선수들을 보면 비니시우스, 네이마르, 히샬리송 모두 다른 선수 들이었는데 역시 개인 기량이 뛰어난 선수들이었던 것 같아요.\n\n[김대길] \n그렇죠. 그리고 또 지금 월드컵이 치러지는 이 기간이 주중, 주말, 주중, 주말 이렇게 경기를 하게 우리가 짜여 있었어요. 그런데 반대로 브라질은 마지막 조별예선 카메룬전에 오늘 득점에 성공한 전방의 히샬리송이랄지 하피냐, 그다음에 비니시우스. 네이마르 선수는 부상에서 빠져서 오늘 들어왔습니다마는 충분한 휴식을 가지고 들어왔거든요. 그런데 우리 선수들은 계속 지금 뛰어야 되는 그런 상황이었기 때문에 체력적 상황을 극복하기가 어려웠고 또 역시 예상했던 대로 브라질의 전방 공격수들은 정말 날카로웠다. 그리고 오늘 또 보셨겠습니다마는 사실은 비니시우스 선수 쪽이 조금 더 위력적이지 않겠나 예상을 했었는데 오늘 하피냐 선수가 너무나 활발하게 움직였어요. 거기서 흔들리면서 우리가 견뎌내지 못했다고 봐야 될 것 같습니다.\n\n[앵커] \n우리도 공격에서 몇몇 활발한 모습을 보여줬는데요. 특히 선발 출전한 황희찬 선수가 위협적인 장면을 만들어냈죠. \n\n[김대길] \n그렇습니다. 황희찬 선수가 지난 포르투갈전에 처음 한 25분 정도 활동을 하면서 멋진 득점도 했고요. 그다음에 부상 때문이긴 했습니다마는 첫 경기 우루과이나 가나전을 뛰지 않았기 때문에 체력적으로 조금 여유가 있었을 것 같아요. 그래서 황희찬 선수가 유일하게 활발하게 측면에서 움직였습니다마는 결국 득점에는 성공하지 못했거든요. 하지만 황희찬 선수의 가능성은 충분히 보여줬다고 볼 수 있습니다. \n\n[앵커] \n그런데 골 결정력에서도 브라질과 우리 대표팀에 차이가 있었던 것 같은 게 브라질 같은 경우는 기회를 더 많이 만들어냈고 한국과 브라질이 초반에는 슈팅이 비슷하지 않았었나요?\n\n[김대길] \n그렇습니다. 그러니까 보신 분은 와, 브라질 선수들 결정력 대단하다. 4골 들어가는 동안에 딱 네 번 때렸는데 4개가 다 들어갔어요. 그러니까... (중략)\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0107_202212060646261093\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\nⓒ YTN 무단 전재 및 재배포금지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9nM9VKGxAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9nM9VKGxAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9nM9VKGxAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P9nM9VKGxAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P9nM9VKGxAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T21:59:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gtpY0g-S6Z-6nmJHkpLs49c_9Jg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iTTuBYq7trQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T23:07:39Z",
+        "channelId": "UC7JbUmyD7g8JH6LvkkQuSZQ",
+        "title": "포르투갈전 종료 후 대한민국 국가대표팀 선수들을 만났습니다",
+        "description": "진짜 다들 너무 고생했어요ㅠㅠ\n\n★★★★★★★★\n원희형 인스타그램\nInstagram : https://www.instagram.com/wonhee06/?hl=ko\n★★★★★★★★★★★★★★★★★★★★★★★★★★★",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTTuBYq7trQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTTuBYq7trQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTTuBYq7trQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iTTuBYq7trQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iTTuBYq7trQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이거해조 원희형",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T23:07:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cmgs-ZSvg8HyDLTlyiy4Y-zI9-M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h2uztBXxEgs"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-28T15:37:04Z",
+        "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
+        "title": "[LIVE 후토크] 'AGAIN 2002' H조 최종전 대한민국 vs 포르투갈 [습츠_카타르 월드컵]",
+        "description": "#카타르월드컵 #대한민국 #포르투갈 #김영권 #황희찬 #손흥민 \n#권경원 #김승규 #이강인 #황인범 #정우영 #호날두 #오르타",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h2uztBXxEgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h2uztBXxEgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h2uztBXxEgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h2uztBXxEgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h2uztBXxEgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스스포츠 SUBUSU SPORTS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-28T15:37:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iOkhghUtvjjvaSh7FqNzbszXCKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gZj_S-rJBhQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T19:41:59Z",
+        "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+        "title": "[이슈한판] 투혼으로 일군 추가 시간 '도하의 기적'…황희찬-손흥민 일냈다!  / 연합뉴스TV (YonhapnewsTV)",
+        "description": "파울루 벤투 감독이 이끄는 우리나라 축구대표팀이 12년만의 16강 진출에 극적으로 성공했습니다. \n후반 추가시간에 터진 황희찬의 역전골을 앞세운 우리나라는 포르투갈에 2대1로 승리했는데요.\n태극전사들의 극적 드라마에 시민들은 추위를 잊은 채 승리의 기쁨을 만끽했습니다.\n\n관련내용 이슈한판에서 짚어봅니다.\n\n[반복재생]\n▲황희찬 기적의 역전골…벤투호, 포르투갈 누르고 12년만의 16강행(조성흠 기자)\n▲'불굴의 의지'로 만든 16강행에 환호…\"가자 8강\"(김종성 기자)\n▲\"꿈은 이루어진다\"…감격의 눈물 흐른 광화문광장(이화영 기자)\n▲[영상구성] 해냈다! 대한민국! 카타르 월드컵 16강 진출!!!\n▲윤 대통령 \"16강 진출 축하…국민에 큰 감동\"\n▲꿈은 이루어졌다…한국, 월드컵 16강 도전사(백길현 기자)\n▲한국·일본·호주…첫 아시아 3개국 16강 진출\n▲[토요와이드] 한국, 12년 만의 16강…이제는 첫 '원정 8강' 도전\n- 출연 : 박찬하 축구해설 위원\n▲[현장의재구성] 16강 기적 이끈 '붉은 함성'…응원에 진심인 세계 팬들 '찐광기' 관중 모음\n\n#월드컵 #16강 #황희찬 #손흥민 #축구대표팀 #벤투호 #카타르월드컵 #포르투갈전 #역전승 #이슈한판 \n\n▣ 연합뉴스TV 두번째 채널 '연유티' 구독하기\nhttps://bit.ly/3yZBQfA\n\n▣ 연합뉴스TV 유튜브 채널 구독\nhttps://goo.gl/VuCJMi\n\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\nhttp://www.yonhapnewstv.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZj_S-rJBhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZj_S-rJBhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZj_S-rJBhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gZj_S-rJBhQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gZj_S-rJBhQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "연합뉴스TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T19:41:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wHXoQUP_vV2xmTTmC75yX4lcdXU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uaZ9a2qn95k"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T10:10:20Z",
+        "channelId": "UCMEbRpvuwTbXxGiyDb1mT8w",
+        "title": "주우재 피셜 xxTP에 숨겨진 성공 노하우 #shorts / 인싸이팅",
+        "description": "다섯 번째 손님은 유아동 콘텐츠계의 최강자 '핑크퐁'의 권빛나 사업전략총괄이사(CSO)와 주혜민 사업개발총괄이사(CBO)입니다. 인턴으로 시작해 임원에 오른 90년대생 젊은 리더들의 성장 키워드는 무엇일까요?\n\n✔신뢰할 수 있는 재미, 비디오머그 VIDEOMUG\n\n#비디오머그 #주우재 #지식인싸 #VMG\n\n▶비디오머그 채널 구독하기 : https://n.sbs.co.kr/mugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uaZ9a2qn95k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uaZ9a2qn95k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uaZ9a2qn95k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uaZ9a2qn95k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uaZ9a2qn95k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비디오머그 - VIDEOMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T10:10:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G_T_96RsfOyHwyMMJhzSn96TkeE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y359kOxwJcw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T23:28:36Z",
+        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
+        "title": "\"월드컵 16강 진출!\" 선수들을 만나 봤습니다아아아아아아아 | 카타르 월드컵 EP.17",
+        "description": "#대한민국 #축구국가대표팀 더 뜨겁게, 𝐭𝐡𝐞 𝐑𝐞𝐝𝐬🔥\n\n#대한축구협회 공식 채널\r\n대한민국 축구 국가대표팀  https://www.facebook.com/KoreaFootballTeam\r\n페이스북 : https://www.facebook.com/kfa\r\n인스타그램 : https://instagram.com/thekfa/\r\n트위터 : https://twitter.com/theKFA\r\n네이버TV http://tv.naver.com/kfa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y359kOxwJcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y359kOxwJcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y359kOxwJcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y359kOxwJcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y359kOxwJcw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KFATV_대한민국 축구 국가대표팀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T23:28:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JAtDJt4-OOEVaXFEKug2Kl-biOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uhJqHjfpqno"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-28T21:53:34Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "벤투호, 가나에 2-3 패배...16강 '빨간불' / YTN",
+        "description": "■ 진행 : 정지웅 앵커, 유다원 앵커 \n■ 출연 : 김대길 축구 평론가\n\n* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 인용시 [YTN 굿모닝와이티엔] 명시해주시기 바랍니다. \n\n[앵커] \n우리 축구대표팀이 카타르월드컵 조별리그 2차전에서 가나에 패배했습니다. 1무 1패로 16강 진출에도 빨간불이 켜졌습니다.\n\n[앵커] \n이번 경기에 대한 평가와 분석, 그리고 또 남은 경기 전망을전문가와 함께 짚어보겠습니다. 김대길 축구 평론가와 함께하겠습니다. 안녕하세요.\n \n[앵커] \n16강을 위해서 반드시 이겨야 하는 이번 경기였는데요. 아쉽고 정말 아쉽습니다. 경기 얘기를 좀 해보자면 전반의 기세는 참 좋았는데 패스의 세밀한 부분들은 부족했죠? \n\n[김대길] \n그렇죠. 좀 피곤하시죠? 어제 이겼으면 덜 피곤했을 텐데 비가 오는 가운데도 많은 팬들이 응원하셨을 텐데 아침에 피곤하셨을 것 같아요. 그런데 축구 경기에서 보시면 이렇습니다. 짧게 이거를 요약한다면 첫 경기 우루과이전은 아쉬웠고 두 번째 어제 가나전 경기는 너무 아쉬웠다, 이렇게 평가할 수 있을 것 같거든요. 그것을 데이터로 분석을 해보면 볼 점유율이 64% 대 36%입니다. 그다음에 슈팅 숫자도 우리가 10개였고 가나가 6개였고요. 프리킥은 우리가 10개를 때렸고 코너킥은 12번이나 얻어냈습니다.\n\n그런데 정지된 장면에서 이번 월드컵 본선에 가서는 우리가 반드시 세밀하게 준비해야 된다고 그러는데 그게 나오지 않았어요. 그런데 반대로 가나 입장에서 본다면 한 10경기를 치르면 한두 번 정도 나올 수 있는 그 경기를 가나는 했어요. 그러니까 경기를 우리한테 지배당했습니다마는 정지된 장면이라는 날카로운 카운터를 통해서 본인들이 결과를 좋게 가져갔거든요. 그러니까 어제 경기 우리 선수들이 잘했기는 했습니다마는 역시 좀 더 공격적인 모습 이런 것들이 수비에 대한 불안감을 지울 수가 없었고요.\n\n또 하나는 먼저 선취 실점했던 장면들이 우리를 조금 더 급하게 만들어버렸거든요. 이게 결국은 전술적인 제한을 받게 됐고 가나 입장에서 보면 카운터를 때릴 수 있는 용이한 형태의 경기 흐름으로 갔던 게 우리의 패인의 원인이 아닐까 싶습니다. \n\n[앵커] \n경기력이 초반에는 좋았지만 수비가 흔들리면서 아쉬움은 약간 남는 경기였다라고 평가를 해 주셨는데 사실 가나는 이 기회를 득점으로 다 연결을 했었잖아요. 조직력이라든지 집중력도 좋았던 것 같은데요.\n\n[김대길]\n그러니까 그거죠. 경기를 90분 동안 해내면서 보면 어떤 흐름을 타느냐가 대단히 중요한데요. 사실 첫 번째 측면에서 날아오는 그 정지된 장면에서 조르당 아예우의 프리킥이 너무나 날카로웠습니다. 그래서 그게 사실은 핸드볼 파울이 아니냐 이런 것도 있었는데 결국 주심은 그대로 골로 인정이 됐거든요. 거기서부터 경기 흐름이 가나 쪽으로 넘어가고 말았어요. \n\n경기 시작 전에는 우리가 급한 게 아니라 가나가 급했기 때문에 상당히 공격적으로 나와야 되고 전술적인 제한을 받을 수 있는데 먼저 선취득점을 함으로써 우리가 전술적 제한을 받고 가나는 전술적 제한을 안 받게 됨으로써 수비 안정을 지키고 우리 카운터를 때리는 이런 흐름으로 가고 말았다, 이렇게 봐야 될 것 같습니다.\n\n[앵커] \n첫 골 얘기를 좀 더 해보자면 공이 안드레 아예우 팔에 맞은 것 같았는데 비디오 판독 결과 일단 결국 넘어가기는 했습니다. 그런데 VAR을 보지 않더라도 느린 화면으로 보면 팔이 이 정도로 툭 맞고 나가거든요. 이게 핸드볼로 인정되지 않는 이유가 고... (중략)\n\n▶ 기사 원문 : https://www.ytn.co.kr/_ln/0107_202211290627382217\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\nⓒ YTN 무단 전재 및 재배포금지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uhJqHjfpqno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uhJqHjfpqno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uhJqHjfpqno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uhJqHjfpqno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uhJqHjfpqno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-28T21:53:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5nHj7FG0piZRyIFXuZRYzvnMfh8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QDldBNi5vso"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T06:05:08Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#태계일주] 대충 살자.. 남미갈 때 달랑 옷 한 벌만 챙겨가는 기안처럼... 기안84의 무계획 남미여행 스타트✈ ㅣ#기안84 #이시언 #빠니보틀 MBC221211방송",
+        "description": "[태어난김에 세계일주] 매주 일요일 오후 4시 45분 방송!!\n\nMBC의 따끈따끈한 영상을 내 맘대로 편하게 즐기는 채널🌀 \n엠뚜루마뚜루 구독하기👉https://www.youtube.com/c/엠뚜루마뚜루\n\n#엠뚜루마뚜루\n#태어난김에세계일주\n\n* [태어난김에 세계일주] 풀버전 보러가기\n✔ WAVVE : https://www.wavve.com/player/vod?programid=M_T70676S&page=1\n\n✔ iMBC : https://playvod.imbc.com/templete/VodList?bid=1005861100000100000",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDldBNi5vso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDldBNi5vso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDldBNi5vso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QDldBNi5vso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QDldBNi5vso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T06:05:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K4CaIgMhj3qAPbfFE0goPJmcTt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HPIeSOIvJHI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T04:41:32Z",
+        "channelId": "UChI3EXzhAkRszawlMageKvQ",
+        "title": "국대 출신들이 말하는 이번 가나전에서 패한 이유 | 쌍용 나오는 경기 리뷰 EP5",
+        "description": "리춘수x라보에이치가 대한민국 월드컵 국가대표팀을 응원합니다⚽🏆💚\n월드컵 특집 콘텐츠 10편 조회수을 합산하여 1회당 1원의 실물상품이 한국 유소년 축구협회에 기부되니 많은 관심 부탁드려요🎁\n\n[무료체험] 라보에이치 샴푸 0원!\nhttps://bit.ly/3GTeiyy\n[블랙 프라이데이] 라보에이치 특가 보러가기!\nhttps://bit.ly/3tUoq2v \n[할인쿠폰] 구독자 전용 7% 추가할인!\nhttps://bit.ly/3B4vtJZ\n회원가입 → 쿠폰 탭 → 쿠폰번호 등록하기 → LABOH2022LCS 입력 → 쿠폰번호 인증 후 사용\n\n\n-\n영상 퍼가실 때 본문 링크 출처를 꼭 기입해주세요",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HPIeSOIvJHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HPIeSOIvJHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HPIeSOIvJHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HPIeSOIvJHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HPIeSOIvJHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리춘수 [이천수]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T04:41:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "szBilPuutEY_KVVz8xBXKyN5ptc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aDxiARnd7L8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T10:39:16Z",
+        "channelId": "UCMEbRpvuwTbXxGiyDb1mT8w",
+        "title": "1천 채 '빌라왕'의 죽음…보험 가입 세입자도 떨고 있는 황당한 현실 / 비디오머그 / 비머Q&A",
+        "description": "수도권 전세사기 혐의로 수사선상에 놓였던 40대 임대업자가 지난 10월 갑자기 사망합니다. 수백 명의 전세보증금이 증발한 상태. 하지만 세입자들은 제대로 하소연할 곳조차 없습니다. 어떻게 된 일일까요.\n\n✔신뢰할 수 있는 재미, 비디오머그 VIDEOMUG\n\n#비디오머그 #빌라왕 #세입자 #VMG\n\n▶비디오머그 채널 구독하기 : https://n.sbs.co.kr/mugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDxiARnd7L8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDxiARnd7L8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDxiARnd7L8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aDxiARnd7L8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aDxiARnd7L8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비디오머그 - VIDEOMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T10:39:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XON5O8nopk8jKphYbFppPHpCRYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jbX8tZO41-4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T01:37:40Z",
+        "channelId": "UChI3EXzhAkRszawlMageKvQ",
+        "title": "카타르 월드컵에서 제일 대성 할 선수는? | 쌍용 나오는 경기 리뷰 EP7",
+        "description": "구독과 좋아요는 큰 힘이 됩니다!\n많은 사랑과 관심 감사드립니다~!\n\n퍼가실 때 본문 링크와 출처를 꼭 남겨주세요~!\n\n광고 제휴 문의 : leechunsoo2021@gmail.com\n\n리춘수x라보에이치가 대한민국 월드컵 국가대표팀을 응원합니다⚽🏆💚\n월드컵 특집 콘텐츠 10편 조회수을 합산하여 1회당 1원의 실물상품이 한국 유소년 축구협회에 기부되니 많은 관심 부탁드려요🎁 \n\n[무료체험] 라보에이치 샴푸 0원! \nhttps://bit.ly/3GTeiyy \n[1등 샴푸] 올리브영 12월 한정!\nhttps://bit.ly/3ESclzV \n[할인쿠폰] 구독자 전용 7% 추가할인! \nhttps://bit.ly/3B4vtJZ \n회원가입 → 쿠폰 탭 → 쿠폰번호 등록하기 → LABOH2022LCS 입력 → 쿠폰번호 인증 후 사용",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jbX8tZO41-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jbX8tZO41-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jbX8tZO41-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jbX8tZO41-4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "리춘수 [이천수]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T01:37:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a1c8nakNYHv39i7Ur0Dcl2fGOXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oW1JtiW94PA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-21T01:10:17Z",
+        "channelId": "UCp3Vy7dFjIheDLbMekpdMQw",
+        "title": "지금 봐도 감동의 눈물이!!! 세계 41위였던 한국 축구를 세계 수준으로 끌어올린 히딩크 감독의 비밀 I KBS 2002.06.15 방송",
+        "description": "#박지성 #월드컵 #히딩크\n거스 히딩크와 23명의 태극전사들. 1년 6개월이라는 짦은 기간에 세계 41위인 한국축구를 세계 수준으로 끌어올린 히딩크 축구의 비밀은 무엇인가? KBS 스페셜은 히딩크의 1년 6개월간의 치밀한 계획, 특히 그 계획의 첫 60일과\n피나는 완성단계의 마지막 60일을 밀착 취재해 지금까지 공개되지 않은 히딩크 감독과 23명 태극전사의 피와 땀의 기록, 한국축구가 세계 수준으로 도약하는 변화의 전 과정을 독점 공개한다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oW1JtiW94PA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oW1JtiW94PA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oW1JtiW94PA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oW1JtiW94PA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oW1JtiW94PA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS 같이삽시다",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-21T01:10:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r5wNa_fx7dWe7TTzy6fk1SsI_ko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-S3_62A41q0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T09:54:07Z",
+        "channelId": "UCLKuglhGlMmDteQKoniENIQ",
+        "title": "[마트전쟁 마지막화] 8년 만에 흑자 낸 쿠팡ㄷㄷ 매년 적자라는 데 장사는 왜 할까?🥄ㅣ돈슐랭 / 14F",
+        "description": "화려한 삶 뒤 고독한 셀럽의 삶… \n쿠팡 컬리 SSG이 적자를 감수하는 이유🥄\n\n#쿠팡 #컬리 #SSG\n\n00:00 오프닝\n01:26 온라인 유통 전쟁의 시작\n03:06 쿠팡이 가장 잘한 것\n06:13 컬리 팬들이 많은 이유\n09:05 쓱의 진출과 적자 경쟁",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-S3_62A41q0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-S3_62A41q0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-S3_62A41q0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-S3_62A41q0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-S3_62A41q0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "14F 일사에프",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T09:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zeE9im4AABpdkmHAPOiodpSv9Tg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FKEAOPirpk0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T06:10:20Z",
+        "channelId": "UChI3EXzhAkRszawlMageKvQ",
+        "title": "축구는 노력 vs 재능 뭐가 더 중요할까 | 쌍용 나오는 리뷰 EP6",
+        "description": "구독과 좋아요는 큰 힘이 됩니다!\n많은 사랑과 관심 감사드립니다~!\n\n퍼가실 때 본문 링크와 출처를 꼭 남겨주세요~!\n\n광고 제휴 문의 : leechunsoo2021@gmail.com\n\n리춘수x라보에이치가 대한민국 월드컵 국가대표팀을 응원합니다⚽🏆💚\n월드컵 특집 콘텐츠 10편 조회수을 합산하여 1회당 1원의 실물상품이 한국 유소년 축구협회에 기부되니 많은 관심 부탁드려요🎁 \n\n[무료체험] 라보에이치 샴푸 0원! \nhttps://bit.ly/3GTeiyy \n[1등 샴푸] 올리브영 12월 한정!\nhttps://bit.ly/3ESclzV \n[할인쿠폰] 구독자 전용 7% 추가할인! \nhttps://bit.ly/3B4vtJZ \n회원가입 → 쿠폰 탭 → 쿠폰번호 등록하기 → LABOH2022LCS 입력 → 쿠폰번호 인증 후 사용",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FKEAOPirpk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FKEAOPirpk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FKEAOPirpk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FKEAOPirpk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FKEAOPirpk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리춘수 [이천수]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T06:10:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cSLQu3-7sEjkbfe6vxgUDBaUznM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NdYv_bldw3k"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T09:12:20Z",
+        "channelId": "UCbFzvzDu17eDZ3RIeaLRswQ",
+        "title": "감스트 가나전 심판 짜증나네요...",
+        "description": "[2022.11.29] 방송영상 입니다.\n\n#대한민국 #축구 #국가대표 #카타르 #카타르월드컵 \n#김승규 #조현우 #송범근 #김민재 #김영권 #권경원 #조유민\n#김문환 #윤종규 #김태환 #김진수 #홍철 #정우영 #손준호\n#백승호 #황인범 #이재성 #권창훈 #정우영  #이강인 #손흥민\n#황희찬 #나상호 #송민규 #황의조 #조규성 #오현규 #벤투 #벤투호\n#ChoGueSung\n\n♥ GAMST YouTube channel subscribe please ♥\n\nGAMST YouTube https://goo.gl/i1A0oN\nGAMST Facebook http://facebook.com/gamst0108\nGAMST Instagram http://Instagram.com/gamst17172\nGAMST TV http://afreeca.com/devil0108\nGAMST TV watch live http://play.afreeca.com/devil0108\n\nCOPYRIGHTS ⓒ 2015 BY GAMST. ALL RIGHTS RESERVED.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NdYv_bldw3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NdYv_bldw3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NdYv_bldw3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NdYv_bldw3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NdYv_bldw3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "감스트GAMST",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T09:12:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HWhuzG_gi_HW-SK5umYvyeUDWoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XDZDh69gjic"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T14:23:00Z",
+        "channelId": "UCMEbRpvuwTbXxGiyDb1mT8w",
+        "title": "선수들 만큼이나 모든 걸 불태운 붉은악마..지금 이 시각 카타르 응원단 모습은? / 비디오머그",
+        "description": "#2022 #카타르월드컵 #대한민국 #16강 \n#붉은악마 #손흥민 #이강인 #황희찬 #벤투  \n\n\n✔신뢰할 수 있는 재미, 비디오머그 VIDEOMUG\n#비디오머그\n\n▶비디오머그 채널 구독하기 : https://n.sbs.co.kr/mugTube\n▶Homepage : https://n.sbs.co.kr/videomug\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XDZDh69gjic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XDZDh69gjic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XDZDh69gjic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XDZDh69gjic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XDZDh69gjic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비디오머그 - VIDEOMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T14:23:00Z"
+      }
+    }
+  ]
+}
