@@ -7,7 +7,7 @@ export default function Video({ videoId }) {
       <iframe
         className={styles.video}
         type="text/html"
-        src={`http://www.youtube.com/embed/${videoId}?enablejsapi=1`}
+        src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1`}
         frameBorder="0"
       />
     </div>
