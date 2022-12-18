@@ -20,7 +20,7 @@ export default function VideoCard({ video, type }) {
         alt={title}
       />
       <div>
-        <p className="font-semibold my-2 line-clamp-2 ">{title}</p>
+        <p className="font-semibold my-2 line-clamp-2 break-all">{title}</p>
         <p className="text-sm opacity-80">{channelTitle}</p>
         <p className="text-sm opacity-80">{formatAgo(publishedAt, "ko")}</p>
       </div>
