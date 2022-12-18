@@ -9,6 +9,7 @@ export default function Video({ videoId }) {
         type="text/html"
         src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1`}
         frameBorder="0"
+        title={videoId}
       />
     </div>
   );
