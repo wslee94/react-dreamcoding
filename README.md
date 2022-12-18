@@ -4,4 +4,5 @@
 
 ## Youtube
 
-- 내가 만든 사이트 :
+- 내가 만든 사이트 : https://youtube-my.netlify.app/
+- 엘리가 만든 사이트 : https://master--youtube-dreamcoding.netlify.app/
