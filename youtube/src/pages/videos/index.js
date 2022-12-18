@@ -8,7 +8,7 @@ import { GridCard } from "../../components";
 export default function Videos() {
   const [list, setList] = useState([]);
   const { keyword } = useParams();
-  const { data, isLoading } = useQuery({
+  useQuery({
     queryKey: [querykeys.FETCH_KEYWORD_VIDEO],
     queryFn: () => getVideosByKeyword({ keyword }),
     onSuccess: (data) => setList(data?.data?.items),

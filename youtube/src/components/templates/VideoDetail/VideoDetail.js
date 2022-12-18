@@ -11,8 +11,8 @@ export default function Watch({ detail, chennel, relatedVideos }) {
           <p className={styles.title}>{detail.title}</p>
           <div className={styles.chennelWrapper}>
             <img
+              alt="channel"
               className={styles.channelLogo}
-              alt="chennel image"
               src={chennel.thumbnails?.high?.url || ""}
             />
             <span className={styles.channelTitle}>{chennel.title}</span>
