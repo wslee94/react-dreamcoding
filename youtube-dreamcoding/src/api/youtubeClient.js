@@ -16,4 +16,8 @@ export default class YoutubeClient {
   videos(params) {
     return this.httpClient.get("videos", params);
   }
+
+  channels(params) {
+    return this.httpClient.get("channels", params);
+  }
 }
