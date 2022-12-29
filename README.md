@@ -2,7 +2,6 @@
 
 드림코딩 리액트 강의 토이 프로젝트 리포지토리
 
-## Youtube
+## Notion
 
-- 내가 만든 사이트 : https://youtube-my.netlify.app/
-- 엘리가 만든 사이트 : https://master--youtube-dreamcoding.netlify.app/
+- https://ritzy-dichondra-a10.notion.site/React-9c0f119225484156b47f70700c7e9410
